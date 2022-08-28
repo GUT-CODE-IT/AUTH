@@ -1,6 +1,6 @@
 ## TNT-AUTHORIZATION
 PLUGIN DEVELOPMENT STATUS:
-- [x] 1-10%
+- [ ] 1-10%
 - [ ] 11-20%
 - [ ] 21-30%
 - [ ] 31-40%
